@@ -1,0 +1,74 @@
+Tokens: 278233
+Merge rules: 9956
+The first 20 merge rules:
+(t, h) -> th
+(th, e) -> the
+(r, e) -> re
+(i, n) -> in
+(o, n) -> on
+(a, t) -> at
+(e, r) -> er
+(a, n) -> an
+(o, f) -> of
+(e, n) -> en
+(i, on) -> ion
+(a, l) -> al
+(e, d) -> ed
+(o, r) -> or
+(i, s) -> is
+(i, c) -> ic
+(e, s) -> es
+(a, r) -> ar
+(an, d) -> and
+(a, s) -> as
+Top 50 tokens:
+<start> [31303]
+the [19442]
+. [15476]
+of [12672]
+and [6659]
+a [5920]
+in [4627]
+to [4529]
+is [4111]
+for [3490]
+are [2427]
+with [2263]
+on [1940]
+at [1833]
+by [1747]
+flow [1736]
+that [1565]
+an [1386]
+be [1271]
+pressure [1133]
+from [1116]
+as [1111]
+this [1080]
+which [974]
+number [964]
+boundary [897]
+results [885]
+it [852]
+mach [817]
+theory [775]
+layer [728]
+was [698]
+method [683]
+been [590]
+shock [589]
+were [582]
+surface [558]
+obtained [539]
+given [520]
+effects [510]
+these [500]
+solution [496]
+heat [483]
+or [482]
+j [481]
+velocity [481]
+has [480]
+temperature [478]
+equations [477]
+supersonic [460]
